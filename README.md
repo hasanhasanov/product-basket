@@ -10,8 +10,7 @@ Basitleştirilmiş bir Monolithic N-Tier Architecture, Product bacağının Base
 | MongoDB | 
 | Redis |
 | FluentValidation | 
-| Swagger | 
-| Payment API | 
+| Swagger |
 
 ## Kaynak olarak kullanılan hizmetler
 
@@ -39,4 +38,4 @@ Durdurmak için:
 
 ## Öneri ve Tavsiyelerinize açığım
 
-Benimle https://www.linkedin.com/in/hasan-hasanov/ iletişime geçebilirsiniz. Sağlıcakla kalın :)
+Benimle iletişime geçebilirsiniz. Sağlıcakla kalın :)
