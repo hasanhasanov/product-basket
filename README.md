@@ -23,7 +23,7 @@ Medium makaleleri
 
 ## Projeyi Çalıştırmak
 
-Eğer bilgisayarınızda [Docker](https://docs.docker.com/engine/install/) yok ise ilgili linkten kurulum adımlarını takip edip kurabilirsiniz. Akabinde projeyi ayağa kaldırmak için aşağıdaki komutları kullanmanız yeterli olacaktır.
+Eğer bilgisayarınızda [Docker](https://docs.docker.com/engine/install/) yok ise ilgili linkten kurulum adımlarını takip edip kurabilirsiniz. Akabinde projeyi ayağa kaldırmak için ocker-compose.yml dosyasının bulunduğu dizine gelerek aşağıdaki komutları kullanmanız yeterli olacaktır.
 
 Api => http://localhost:8000/swagger/index.html
 Mongo Express => http://localhost:8081/
