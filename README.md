@@ -11,6 +11,7 @@ Basitleştirilmiş bir Monolithic N-Tier Architecture, Product bacağının Base
 | Redis |
 | FluentValidation | 
 | Swagger |
+| Docker |
 
 ## Kaynak olarak kullanılan hizmetler
 
